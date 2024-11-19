@@ -1,9 +1,9 @@
 ### Jogo de Basquete 🏀
 
 ## O que utlizamos:
-javaScript
-Html
-CSS
+# javaScript
+# Html
+# CSS
 
-### Imagens:
+Esse jogo foi um jogo para aprendermos mais sobre esssas linguagens acima  
 
